@@ -1,0 +1,6 @@
+jupyter
+matplotlib==3.6.0
+numpy
+pandas
+seaborn
+sklearn
